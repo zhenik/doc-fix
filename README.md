@@ -27,8 +27,18 @@ This vagrant box aims to make it dead simple to start a hashistack and emulating
 ---
 
 ## Content
-1. [Install](./docs/1-install.md)
-2. 
+1. [Description - what & why](docs/1-description.md)
+2. [Install prerequisites](docs/2-install.md)
+3. [Build](docs/3-build.md)
+4. [Configuration](docs/4-configuration.md)
+5. [Usage](docs/5-usage.md)
+    1. [Simple run](docs/5-usage.md)
+    2. [New project template](template/README.md)
+6. [Test](docs/6-test.md)
+6. [Proxy](docs/99-proxy.md)
+
+## Diagram
+todo
 
 ## todo REMOVE
 - [example](https://github.com/anuraghazra/github-readme-stats)

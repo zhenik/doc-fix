@@ -1,5 +1,6 @@
-[<-- README](../README.md)
+[<-- README](../)
 # Install
+
 `make install`
 
 The command, will install:
