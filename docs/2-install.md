@@ -1,4 +1,4 @@
-[<-- README](../)
+[<-- README](../README.md)
 # Install
 
 `make install`

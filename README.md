@@ -49,10 +49,9 @@ This vagrant box aims to make it dead simple to start a hashistack and emulating
     1. [Simple run](docs/5-usage.md)
     2. [New project template](template/README.md)
 6. [Test](docs/6-test.md)
-6. [Proxy](docs/99-proxy.md)
+7. [Proxy](docs/99-proxy.md)
+8. [Contribution](docs/9-contributing.md)
 
 ## Diagram
-todo
+![img](./docs/image/vagrant-hashistack.png)
 
-## todo REMOVE
-- [example](https://github.com/anuraghazra/github-readme-stats)
