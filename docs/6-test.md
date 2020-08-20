@@ -1,4 +1,4 @@
-[<-- README](../)
+[<-- README](https://github.com/zhenik/doc-fix)
 # Test
 
 The tests are run using [Github Actions](https://github.com/features/actions) feature which makes it possible to automate, customize, and execute the software development workflows right in the repository. 

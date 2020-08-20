@@ -1,4 +1,4 @@
-[<-- README](../)
+[<-- README](https://github.com/zhenik/doc-fix)
 # Build
 
 ```text

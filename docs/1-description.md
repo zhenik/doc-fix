@@ -1,4 +1,4 @@
-[<-- README](/../)
+[<-- README](https://github.com/zhenik/doc-fix)
 # Description
 
 This repository will build a base-box for different projects to extend on.

@@ -1,4 +1,4 @@
-[<-- README](../)
+[<-- README](https://github.com/zhenik/doc-fix)
 # Configuration
  
 Section describes configuration options for vagrant-hashistack.

@@ -1,3 +1,4 @@
+[<-- README](https://github.com/zhenik/doc-fix)
 # Contributing to vagrant-hashistack
 
 ## Bugs or inconsistencies

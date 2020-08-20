@@ -1,4 +1,4 @@
-[<-- README](../README.md)
+[<-- README](https://github.com/zhenik/doc-fix)
 # Install
 
 `make install`

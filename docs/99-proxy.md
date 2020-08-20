@@ -1,4 +1,4 @@
-[<-- README](../)
+[<-- README](https://github.com/zhenik/doc-fix)
 # Proxy
 
 If you for any reason find yourself behind a transparent proxy you need to set the environment variables `SSL_CERT_FILE` and `CURL_CA_BUNDLE`. You have three options:
