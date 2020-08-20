@@ -25,7 +25,7 @@
     </p>
 </p>
 
-# vagrant-hashistack
+#
 
 This vagrant box aims to make it dead simple to start a hashistack and emulating how services will deploy to production.
 
