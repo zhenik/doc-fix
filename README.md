@@ -41,7 +41,7 @@ This vagrant box aims to make it dead simple to start a hashistack and emulating
 ---
 
 ## Content
-1. [Description - what & why](#description---what-&-why)
+1. [Description - what & why](#description---what--why)
 2. [Install prerequisites](docs/2-install.md)
 3. [Build](docs/3-build.md)
 4. [Configuration](docs/4-configuration.md)
