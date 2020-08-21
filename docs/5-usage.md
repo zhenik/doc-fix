@@ -11,7 +11,7 @@
 To get a running VM using the latest release of this box run 
 ```
 vagrant init fredrikhgrelland/hashistack
-vagrant up
+ANSIBLE_ARGS='--extra-vars "local_test=true"' vagrant up --provision
 ```
 The first command will add a file called `Vagrantfile` to your directory, and `vagrant up` will start a box based on the specifications of that file.
 
