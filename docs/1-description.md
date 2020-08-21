@@ -17,7 +17,7 @@ Minio is started on port `9000` and sharing /vagrant (your repo) from within the
 
 *The master token for `Consul` and `Vault` is `master`.
 
-## Why does this exist?
+### Why does this exist?
 
 We needed a Vagrant box with the complete hashistack to use for demo, development and testing.
 In order to build cloud native, security minded and dependable services, there exists a killer combination;

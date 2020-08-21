@@ -13,4 +13,4 @@ Run tests by starting the [countdash](https://www.nomadproject.io/docs/integrati
 
 ---
 
-**Note**: You can refer to system [configuration doc](4-configuration.md) in order to get a comprehensive overview of the default configurations with which the system is set up. The document also provides information about steps for overriding the default system configuration.
+**Note**: You can refer to system [configuration doc](4-configuration.md) in order to get a comprehensive overview of the default configurations with which the system set up. The document also provides information about steps for overriding the default system configuration.
